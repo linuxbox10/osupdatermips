@@ -1,0 +1,4 @@
+emuname = OscamUpdater 
+binname = oscam_oscamupdater
+startcam = {oscamStartCmd}
+stopcam = killall -9 oscam_oscamupdater
